@@ -1,2 +1,2 @@
 # algorithms
-Python repository for storing algorithms
+Repository for storing algorithms
